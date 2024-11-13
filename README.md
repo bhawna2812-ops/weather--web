@@ -9,4 +9,4 @@
 8.UV
 9.Sunrise and Sunset timing.
 10.Air quality
-11.15 dyas weather forecast.
+11.15 dyas weather forecast..
